@@ -53,6 +53,7 @@ p {
 }
 
 .demo {
+    background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAABeSURBVDhP7ZIhEsAwCARJDTyML+NwfApU2ka3A+jkZlDsnFgYZjYhibsDM2fY2l8lqgGdwoasH3RHh+/TZhMRZbljPqnQIgKImKLlQlUFIkoLd7xyKqUJHIdNYR/4DbRPMK0bDrvHAAAAAElFTkSuQmCC');
     border-right: 2px solid #eee;
     position: relative;
     width: 200px;
