@@ -1,4 +1,4 @@
-### GitHub Corners (fork, transparent octo cat)
+### GitHub Corners (fork, transparent octocat)
 
 Phew, GitHub is over seven years old now... and is unquestionably synonymous with open source. After 7 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
 
